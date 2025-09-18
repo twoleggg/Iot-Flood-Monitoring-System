@@ -56,6 +56,10 @@ https://github.com/user-attachments/assets/38b2e235-1d94-4f96-9a99-56965b1a8559
 
 Certificate from the event is in `[prastuti 2 0 certificate](https://github.com/user-attachments/assets/c6fb0fa7-6e40-4703-9646-2d6388eee973)
 
+##License
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## Future Work
 - GPS-tagged alerts for geographically-aware notifications  
 - Battery/solar optimization for long-term remote deployment  
